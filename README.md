@@ -1,7 +1,4 @@
-
- 
- 
-## About Me
+# <a href="mailto:joaobarreto4763@gmail.com">João Felipe</a> 
  
 <br>
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio (Rio de Janeiro, RJ). 
@@ -25,8 +22,8 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universid
 
 ##  Contact Me
 
-- <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-170abb20b/">Linkedin</a>
-- <a href="mailto:joaobarreto4763@outlook.com">E-mail</a>
+
+- <a href="mailto:joaobarreto4763@gmail.com">E-mail</a>
 
 
 </div>
