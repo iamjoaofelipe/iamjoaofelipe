@@ -1,15 +1,18 @@
- # <a href="https://www.linkedin.com/in/giovannamoeller/">Giovanna Moeller</a>
+ # <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-170abb20b/">João Felipe</a>
+ 
  
 ## About Me
-Tenho 20 anos e sou técnica em informática pelo Colégio Técnico Industrial 'Prof. Isaac Portal Roldán' - UNESP (Bauru, SP), formada em 2019. Atualmente, sou estudante de Sistemas de Informação na UNESP - Universidade Estadual Paulista (Bauru, SP). 
+ Meu nome é João Felipe.
+ <br>
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio (Rio de Janeiro, RJ). 
+Sou apaixonado por tecnologia,busco me aperfeiçoar cada dia mais para me tornar um profissional completo.
 <br>
-Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de interfaces.
+
 
 ## Technologies
-- Front - End com HTML, CSS, JS, ReactJS
-- Wordpress
-- UI Design com Figma
-- Estudando Swift nas horas vagas
+- Front - End com HTML, CSS, JS,
+
+
 
 **Languages and Tools:**  
 
@@ -22,8 +25,9 @@ Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de i
 
 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
-- <a href="mailto:giovanna_moeller@outlook.com">E-mail</a>
-- <a href="https://instagram.com/gimoeller">Instagram Pessoal</a>
-- <a href="https://www.instagram.com/girl.coding/">Instagram de Criador de Conteúdo</a>
+
+- <a href="mailto:joaobarreto4763@outlook.com">E-mail</a>
+
+
 </div>
+ 
