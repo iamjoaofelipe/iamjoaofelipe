@@ -1,11 +1,10 @@
- # <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-170abb20b/">João Felipe</a>
+
  
  
 ## About Me
- Meu nome é João Felipe.
- <br>
+ 
+<br>
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio (Rio de Janeiro, RJ). 
-Sou apaixonado por tecnologia,busco me aperfeiçoar cada dia mais para me tornar um profissional completo.
 <br>
 
 
@@ -26,6 +25,7 @@ Sou apaixonado por tecnologia,busco me aperfeiçoar cada dia mais para me tornar
 
 ##  Contact Me
 
+- <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-170abb20b/">Linkedin</a>
 - <a href="mailto:joaobarreto4763@outlook.com">E-mail</a>
 
 
