@@ -3,6 +3,8 @@
 <br>
 Atualmente,sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio (Rio de Janeiro,RJ). 
 <br>
+Currently, I am a Systems Analysis and Development student at Estácio University (Rio de Janeiro,RJ).
+<br>
 
 ## Technologies
 - Front - End com HTML, CSS, JS,
