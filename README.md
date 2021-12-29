@@ -1,7 +1,7 @@
 # <a href="mailto:joaobarreto4763@gmail.com">João Felipe</a> 
  
 <br>
-Currently, I am a Systems Analysis and Development student at Estácio University (Rio de Janeiro,RJ. 
+I am a student of the Systems Analysis and Development course. 
 <br>
 
 
