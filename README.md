@@ -6,7 +6,7 @@ Currently, I am a Systems Analysis and Development student at Estácio Universit
 
 
 ## Technologies
-- Front - End com HTML, CSS, JS,
+- Front - End with HTML, CSS, JS,
 
 **Languages :**  
 
