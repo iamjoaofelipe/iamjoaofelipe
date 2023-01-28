@@ -1,9 +1,9 @@
 # <a href="mailto:joaobarreto4763@gmail.com">João Felipe</a> 
  
 <br>
-I am currently an IT Assistant. My responsibility is to create data transformation workflows using Power BI and DAX, whose end products will feed data visualization dashboards.
+Atualmente sou Assistente TI na empresa BrasilCenter. Minha responsabilidade é criar fluxos de trabalho de transformação de dados usando Power BI e DAX, cujos produtos finais alimentarão painéis de visualização de dados.
 
-About development, I have knowledge in: SQL and Python.
+Migrando para a área de desenvolvimento, possuo conhecimento em: SQL e Python.
 
 <br>
 
