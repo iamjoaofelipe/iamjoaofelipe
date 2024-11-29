@@ -1,10 +1,9 @@
 # <a href="mailto:joaobarreto4763@gmail.com">João Felipe</a> 
  
 <br>
-Atualmente sou Assistente TI na empresa BrasilCenter. Minha responsabilidade é criar fluxos de trabalho de transformação de dados usando Power BI e DAX, cujos produtos finais alimentarão painéis de visualização de dados.
+Formado em Análise e Desenvolvimento de Sistemas na universidade Estácio, Sou um profissional com foco em Análise de Dados, a minha responsabilidade é transformar dados em informações para tomadas de decisões importantes com objeto no crescimento da empresa. Faço relatórios para diversas áreas, todos possuem tempo determinado. Possuo conhecimento AMPLO em Excel, Power BI - Linguagem DAX , Linguagem SQL - Modelagem de DADOS e Linguagem Python. Sobre criação de Design de Dashboard, uso a ferramenta Figma. Além disso sou muito bom em comunicação e tenho ótimo relacionamento interpessoal.
 <br>
 
-Migrando para a área de desenvolvimento, possuo conhecimento em: SQL e Python.
 
 <br>
 
