@@ -1,11 +1,25 @@
-# <a href="mailto:joaobarreto4763@gmail.com">João Felipe</a> 
- 
-<br>
-Formado em Análise e Desenvolvimento de Sistemas na universidade Estácio, Sou um profissional com foco em Análise de Dados, a minha responsabilidade é transformar dados em informações para tomadas de decisões importantes com objeto no crescimento da empresa. Faço relatórios para diversas áreas, todos possuem tempo determinado. Possuo conhecimento AMPLO em Excel, Power BI - Linguagem DAX , Linguagem SQL - Modelagem de DADOS e Linguagem Python. Sobre criação de Design de Dashboard, uso a ferramenta Figma. Além disso sou muito bom em comunicação e tenho ótimo relacionamento interpessoal.
-<br>
+# Olá, eu sou o João Felipe 👋
 
+Sou Analista de Dados com 4 anos de experiência e atualmente em transição para Desenvolvedor Python. Tenho paixão por transformar dados em soluções práticas e automatizadas, unindo minha experiência analítica com programação.
 
-<br>
+Aqui você encontrará meus projetos em Python focados em automação, tratamento de dados, consumo de APIs, ETL e criação de bots — projetos que estão em desenvolvimento e em constante evolução.
 
-</div>
- 
+## Tecnologias que utilizo
+
+- Python (automação, scripts, APIs)  
+- SQL e modelagem de dados  
+- Pandas, NumPy, Matplotlib  
+- Power BI / Tableau  
+- Git e GitHub  
+- Excel Avançado  
+
+## Projetos em desenvolvimento
+
+- Análises de dados com Pandas e visualizações com Matplotlib  
+- Bots e scripts para automação de tarefas  
+- Consumo e tratamento de dados via APIs públicas  
+
+---
+
+📫 Me encontre no LinkedIn: [linkedin.com/in/joaofelipe](https://www.linkedin.com/in/jo%C3%A3o-felipe-170abb20b/)  
+📫 Veja meus projetos no GitHub: [github.com/iamjoaofelipe](https://github.com/iamjoaofelipe)
