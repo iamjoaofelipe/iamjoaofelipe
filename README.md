@@ -1,24 +1,6 @@
-Olá, sou João Felipe 👋
-Possuo 4 anos de experiência como Analista de Dados, com expertise em transformar dados em soluções práticas e automatizadas, integrando análise e programação.
+👋 Olá! Sou analista de dados com 4 anos de experiência, focado em transformar dados em soluções eficientes.
 
-Neste espaço, compartilho meus projetos em Python, focados em automação, tratamento de dados, consumo de APIs, ETL e desenvolvimento de bots, todos disponíveis no meu GitHub.
-
-Tecnologias utilizadas
-Python (automação, scripts, APIs)
-
-SQL e modelagem de dados
-
-Pandas, NumPy, Matplotlib
-
-Power BI / Tableau
-
-Git e GitHub
-
-Excel Avançado
-
-Projetos
-Publicação diária de projetos em Python, abordando desafios reais e práticas constantes de aprimoramento.
-
-📫 LinkedIn: linkedin.com/in/joaofelipe
-📫 GitHub: github.com/iamjoaofelipe
-
+🛠️ Crio pipelines em Python com Pandas, SQL, APIs e processos de ETL
+☁️ Evoluindo com ferramentas de engenharia de dados para extração, limpeza e integração
+📂 Iniciando publicações no GitHub com projetos de ingestão e organização de dados
+🚀 Em transição para engenharia de dados, unindo análise e automação
